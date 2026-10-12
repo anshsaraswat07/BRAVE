@@ -3,7 +3,7 @@
 **Detect · Predict · Prevent**
 
 Smart India Hackathon 2026 · Problem Statement **SIH26008** · Ministry of Steel
-Team **CYPHER LUMINARIES**
+Team **Four_Aces**
 
 ---
 
@@ -127,5 +127,5 @@ Open the **Network URL** Streamlit prints to view the dashboard from another dev
 
 ## Team
 
-**CYPHER LUMINARIES** — 2 VLSI - 2 IIoT - 2 AIML
+**Four_Aces** 
 Smart India Hackathon 2026 - SIH26008 - Ministry of Steel
