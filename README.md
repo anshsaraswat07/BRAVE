@@ -3,7 +3,7 @@
 **Detect · Predict · Prevent**
 
 Smart India Hackathon 2026 · Problem Statement **SIH26008** · Ministry of Steel
-Team **Four_Aces**
+Team **Leo_Square**
 
 ---
 
@@ -127,5 +127,5 @@ Open the **Network URL** Streamlit prints to view the dashboard from another dev
 
 ## Team
 
-**Four_Aces** 
+**Leo_Square** 
 Smart India Hackathon 2026 - SIH26008 - Ministry of Steel
