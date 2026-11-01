@@ -3,7 +3,7 @@
 **Detect · Predict · Prevent**
 
 Smart India Hackathon 2026 · Problem Statement **SIH26008** · Ministry of Steel
-Team **Leo_Square**
+
 
 ---
 
@@ -125,7 +125,5 @@ Open the **Network URL** Streamlit prints to view the dashboard from another dev
 - Vision model untested on hardware/camera/lighting setups outside the original training rig.
 - Current camera feed refreshes as a still frame every ~2 seconds rather than continuous video, by design — a lower-risk trade-off for a demo than running a separate video-streaming server.
 
-## Team
-
-**Leo_Square** 
+ 
 Smart India Hackathon 2026 - SIH26008 - Ministry of Steel
